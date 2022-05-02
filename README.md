@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ca3rwin
 - 👀 I’m interested in AI and GameDev
-- 🌱 I’m currently learning React Native and TIBCO
+- 🌱 I’m currently learning React Native, Angular and TIBCO
 - 💞️ Peepee poopoo
 
 <!---
